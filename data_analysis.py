@@ -13,7 +13,7 @@ rand_ints = open("rand_ints_0.1_test.txt","a",encoding='utf-8',newline="\n")
 for i in range(10000):
     rand_int = random.randint(0,1000000)
     gout = "rand_" + str(i) + "_rewired.tab"
-    g0 = rn.randomizeNetwork("string_spn_largecc.tab",rand_seed=rand_int,graph_out=gout,no_swaps=0.1)
+    g0 = rn.randomizeNetwork("spn_largecc_edgelist.tab",rand_seed=rand_int,graph_out=gout,no_swaps=0.1)
     rand_ints.write(str(rand_int)+"\n")
     
 rand_ints.close()
