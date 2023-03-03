@@ -1,7 +1,7 @@
 # network_analysis
 Files and scripts used for pneumococcal network construction and analysis
 
-The final network is in the spn_pan_net.tab
+The final network is in the spn_largecc_edgelist.tab
 
 The large connected component is the graphml file
 
