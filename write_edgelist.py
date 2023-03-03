@@ -1,3 +1,4 @@
+# to read a graphml file and create an edgelist file
 import networkx as nx
 
 G = nx.read_graphml("string_spn_largecc.graphml",edge_key_type=int)
