@@ -1,4 +1,4 @@
-source, target, gene_source,gene_target,taxon,score,neighborhood, fusion, phylogen_profile, co_expression,expt, db_score, text_mining,source_essential,target_essential,edge_type
+source,Â target,Â gene_source,gene_target,taxon,score,neighborhood,Â fusion,Â phylogen_profile,Â co_expression,expt,Â db_score,Â text_mining,source_essential,target_essential,edge_type
 373153.SPD_0001,373153.SPD_0002,dnaA,dnaN,373153,0.974,0.674,0,0.468,0.205,0.312,0,0.776,n,n,N-N
 373153.SPD_0001,373153.SPD_2030,dnaA,dnaB,373153,0.9,0.084,0,0.374,0.114,0.319,0,0.757,n,y,N-E
 373153.SPD_0001,373153.SPD_0038,dnaA,polA,373153,0.867,0.042,0,0.52,0.096,0,0,0.718,n,n,N-N
